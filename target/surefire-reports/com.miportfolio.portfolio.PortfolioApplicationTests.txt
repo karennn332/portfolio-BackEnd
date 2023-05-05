@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.miportfolio.portfolio.PortfolioApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 49.084 s - in com.miportfolio.portfolio.PortfolioApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.699 s - in com.miportfolio.portfolio.PortfolioApplicationTests
