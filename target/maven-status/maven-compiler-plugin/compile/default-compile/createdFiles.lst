@@ -1,5 +1,6 @@
 com\miportfolio\portfolio\Service\Seducacion.class
 com\miportfolio\portfolio\Security\Entity\Rol.class
+com\miportfolio\portfolio\Dto\dtoPersona.class
 com\miportfolio\portfolio\Security\MainSecurity.class
 com\miportfolio\portfolio\Controller\CHys.class
 com\miportfolio\portfolio\Security\Controller\CEducacion.class
@@ -11,10 +12,10 @@ com\miportfolio\portfolio\Security\Dto\LoginUsuario.class
 com\miportfolio\portfolio\Security\Service\UserDetailsImpl.class
 com\miportfolio\portfolio\PortfolioApplication.class
 com\miportfolio\portfolio\Repository\IPersonaRepository.class
-com\miportfolio\portfolio\Interface\IPersonaServis.class
 com\miportfolio\portfolio\Security\Jwt\JwtTokenFilter.class
 com\miportfolio\portfolio\Security\Repository\iRolRepository.class
 com\miportfolio\portfolio\Security\Dto\NuevoUsuario.class
+com\miportfolio\portfolio\Service\ImpPersonaService.class
 com\miportfolio\portfolio\Security\Controller\Mensaje.class
 com\miportfolio\portfolio\Service\Shys.class
 com\miportfolio\portfolio\Servis\RolService.class
@@ -34,6 +35,5 @@ com\miportfolio\portfolio\Service\SExperiencia.class
 com\miportfolio\portfolio\Repository\Rhys.class
 com\miportfolio\portfolio\Controller\PersonaController.class
 com\miportfolio\portfolio\Repository\REducacion.class
-com\miportfolio\portfolio\Service\ImpPersonaServis.class
 com\miportfolio\portfolio\Security\Dto\JwtDto.class
 com\miportfolio\portfolio\Dto\dtoEducacion.class

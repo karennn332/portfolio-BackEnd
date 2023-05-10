@@ -6,8 +6,9 @@ C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfol
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Jwt\JwtProvider.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Service\RolService.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Jwt\JwtTokenFilter.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Service\ImpPersonaService.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Dto\dtoPersona.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Repository\IPersonaRepository.java
-C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Interface\IPersonaServis.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Controller\CExperiencia.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\PortfolioApplication.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Controller\Mensaje.java
@@ -32,7 +33,6 @@ C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfol
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Dto\LoginUsuario.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Dto\NuevoUsuario.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Repository\iUsuarioRepository.java
-C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Service\ImpPersonaServis.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Entity\Persona.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Entity\Experiencia.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Dto\dtoHys.java
