@@ -28,6 +28,7 @@ com\miportfolio\portfolio\Security\Enums\RolNombre.class
 com\miportfolio\portfolio\Repository\RExperiencia.class
 com\miportfolio\portfolio\Security\Controller\AuthController.class
 com\miportfolio\portfolio\Security\Jwt\JwtEntryPoint.class
+com\miportfolio\portfolio\PortfolioApplication$1.class
 com\miportfolio\portfolio\Security\Service\UsuarioService.class
 com\miportfolio\portfolio\Controller\CProyectos.class
 com\miportfolio\portfolio\Controller\CExperiencia.class
