@@ -13,14 +13,7 @@ public class PortfolioApplication {
 		SpringApplication.run(PortfolioApplication.class, args);
 	}
       
-   public WebMvcConfigurer corsConfigurer() {
-	   return new WebMvcConfigurer() {
-		   @Override
-		   public void addCorsMappings(CorsRegistry registry) {
-			   registry.addMapping("/**/").allowedOrigins("https://frontendkd-1523f.web.app");
-		   }
-	};
-   }
+  
 
 }
             
