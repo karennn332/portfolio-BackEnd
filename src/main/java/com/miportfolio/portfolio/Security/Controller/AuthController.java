@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin(origins = "https://frontendkd-1523f.web.app")
+@CrossOrigin(origins = "https://portfolio-karendev.web.app")
 
 public class AuthController {
 
@@ -41,7 +41,7 @@ public class AuthController {
     @Autowired
     UsuarioService usuarioService;
     @Autowired
-    RolService rolService;
+    com.miportfolio.portfolio.Security.Service.RolService rolService;
     @Autowired
     JwtProvider jwtProvider;
 

@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/personas")
-@CrossOrigin(origins = "https://frontendkd-1523f.web.app")
+@CrossOrigin(origins = "https://portfolio-karendev.web.app")
 public class PersonaController {
 
     @Autowired
@@ -58,7 +58,7 @@ public class PersonaController {
     public ResponseEntity<?> update(@PathVariable("id") int id, @RequestBody dtoPersona dtopersona) {
         //validamos si esxiste el id
         if (!personaService.existsById(id)) {
-            return new ResponseEntity(new Mensaje("El Id no existe"), HttpStatus.BAD_REQUEST);
+            return new ResponseEntity<Object>(new Mensaje("El Id no existe"), HttpStatus.BAD_REQUEST);
         }
 
         //Compara nombre de experiencia

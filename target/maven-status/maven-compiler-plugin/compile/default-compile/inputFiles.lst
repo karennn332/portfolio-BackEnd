@@ -1,8 +1,11 @@
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Controller\CHys.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Controller\AuthController.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Repository\Rproyectos.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Entity\UsuarioPrincipal.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Service\Shys.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Entity\Proyectos.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Dto\dtoExperiencia.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Dto\dtoProyectos.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Jwt\JwtProvider.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Service\RolService.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Jwt\JwtTokenFilter.java
@@ -33,7 +36,9 @@ C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfol
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Dto\LoginUsuario.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Dto\NuevoUsuario.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Security\Repository\iUsuarioRepository.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Controller\CProyectos.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Entity\Persona.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Entity\Experiencia.java
+C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Service\Sproyectos.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Dto\dtoHys.java
 C:\Users\karen\OneDrive\Escritorio\BackEnd\portfolio\src\main\java\com\miportfolio\portfolio\Service\Seducacion.java
