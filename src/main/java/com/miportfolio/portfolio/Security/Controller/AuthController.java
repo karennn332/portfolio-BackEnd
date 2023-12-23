@@ -8,7 +8,7 @@ import com.miportfolio.portfolio.Security.Entity.Usuario;
 import com.miportfolio.portfolio.Security.Enums.RolNombre;
 import com.miportfolio.portfolio.Security.Jwt.JwtProvider;
 import com.miportfolio.portfolio.Security.Service.UsuarioService;
-import com.miportfolio.portfolio.Servis.RolService;
+import com.miportfolio.portfolio.Security.Service.RolService;
 import jakarta.validation.Valid;
 import java.util.HashSet;
 import java.util.Set;
